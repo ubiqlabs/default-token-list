@@ -1,6 +1,6 @@
 {
   "name": "Default List",
-  "timestamp": "2020-08-23T12:49:03.275Z",
+  "timestamp": "2020-08-23T13:52:33.638Z",
   "version": {
     "major": 1,
     "minor": 3,
@@ -54,11 +54,11 @@
     },
     {
       "name": "Wrapped UBQ",
-      "address": "0xd0A1E359811322d97991E03f863a0C30C2cF029C",
+      "address": "0x1FA6A37c64804C0D797bA6bC1955E50068FbF362",
       "symbol": "WUBQ",
       "decimals": 18,
       "chainId": 8,
-      "logoURI": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0x1FA6A37c64804C0D797bA6bC1955E50068FbF362/logo.png"
     }
   ]
 }
