@@ -64,22 +64,6 @@
     "logoURI": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0x5e1715bB79805Bd672729760B3f7F34D6f485098/logo.png"
   },
   {
-    "name": "Cauli",
-    "address": "0x0319b92eb57929684C27531Da133b0d2BbF691Af",
-    "symbol": "CAULI",
-    "decimals": 8,
-    "chainId": 8,
-    "logoURI": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0x0319b92eb57929684C27531Da133b0d2BbF691Af/logo.png"
-  },
-  {
-    "name": "APX",
-    "address": "0xD245207cFbF6eb6F34970Db2a807AB1D178fDE6C",
-    "symbol": "APX",
-    "decimals": 8,
-    "chainId": 8,
-    "logoURI": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0xD245207cFbF6eb6F34970Db2a807AB1D178fDE6C/logo.png"
-  },
-  {
     "name": "Wrapped Expanse",
     "address": "0x068adbc25efa195f13e70812904761100046059c",
     "symbol": "uWEXP",
