@@ -80,7 +80,7 @@
     "logoURI": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0xD245207cFbF6eb6F34970Db2a807AB1D178fDE6C/logo.png"
   },
   {
-    "name": "Expanse (Wrapped)",
+    "name": "Wrapped Expanse",
     "address": "0x068adbc25efa195f13e70812904761100046059c",
     "symbol": "uWEXP",
     "decimals": 18,
