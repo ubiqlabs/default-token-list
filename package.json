@@ -1,11 +1,11 @@
 {
   "name": "@uniswap/default-token-list",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "description": "◦ The Shinobi default token list",
   "main": "build/uniswap-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/shinobi-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/shinobi-default.tokenlist.json && node src/write.js > build/uniswap-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
