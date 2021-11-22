@@ -1,10 +1,10 @@
 {
   "name": "Default List",
-  "timestamp": "2021-11-17T15:46:04.188Z",
+  "timestamp": "2021-11-22T17:20:00.560Z",
   "version": {
     "major": 1,
-    "minor": 3,
-    "patch": 1
+    "minor": 0,
+    "patch": 0
   },
   "tags": {},
   "keywords": [
@@ -43,6 +43,22 @@
       "decimals": 18,
       "chainId": 8,
       "logoURI": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0x7845fCbE28ac19ab7ec1C1D9674E34fdCB4917Db/logo.png"
+    },
+    {
+      "name": "Polygon DAI",
+      "address": "0xa8b56D3DDaDEe0E9B9E0bB21b7Bd58c120A8e6cd",
+      "symbol": "pDAI",
+      "decimals": 18,
+      "chainId": 8,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "name": "Polygon USDC",
+      "address": "0xA30f18BB70B67B1CA59ecfd3e816296ebD4F6bfC",
+      "symbol": "pUSDC",
+      "decimals": 18,
+      "chainId": 8,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
       "name": "PickleRicks",

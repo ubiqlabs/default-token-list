@@ -1,11 +1,11 @@
 # default-token-list
 
-This NPM module and GitHub repo contains the default token list used in the Shinobi interface.
+This NPM module and GitHub repo contains the default token list used in the Ubiqswap interface.
 
 ## Adding a token
 
 To request that we add a token to the list, 
-[file an issue](https://github.com/octanolabs/default-token-list/issues/new?assignees=&labels=token+request&template=token-request.md&title=Add+%7BTOKEN_SYMBOL%7D%3A+%7BTOKEN_NAME%7D).
+[file an issue](https://github.com/ubiqlabs/default-token-list/issues/new?assignees=&labels=token+request&template=token-request.md&title=Add+%7BTOKEN_SYMBOL%7D%3A+%7BTOKEN_NAME%7D).
 
 ### Disclaimer
 
