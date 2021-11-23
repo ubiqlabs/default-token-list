@@ -1,6 +1,6 @@
 {
   "name": "Default List",
-  "timestamp": "2021-11-22T17:20:00.560Z",
+  "timestamp": "2021-11-23T20:29:36.371Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -59,14 +59,6 @@
       "decimals": 18,
       "chainId": 8,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
-    },
-    {
-      "name": "PickleRicks",
-      "address": "0x5e1715bB79805Bd672729760B3f7F34D6f485098",
-      "symbol": "RICKS",
-      "decimals": 8,
-      "chainId": 8,
-      "logoURI": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0x5e1715bB79805Bd672729760B3f7F34D6f485098/logo.png"
     },
     {
       "name": "Snarg01",

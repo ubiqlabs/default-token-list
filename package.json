@@ -1,22 +1,22 @@
 {
   "name": "@ubiqlabs/default-token-list",
   "version": "1.0.0",
-  "description": "◦ The Ubiqswap default token list",
+  "description": "◦ The UbiqLabs default token list",
   "main": "build/uniswap-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/ubiqswap-default.tokenlist.json && node src/write.js > build/uniswap-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/ubiqlabs-default.tokenlist.json && node src/write.js > build/uniswap-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/ubiqswap-default.tokenlist.json"
+    "build/ubiqlabs-default.tokenlist.json"
   ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/octanolabs/default-token-list.git"
   },
   "keywords": [
-    "Ubiqswap",
+    "UbiqLabs",
     "default",
     "token",
     "list"
