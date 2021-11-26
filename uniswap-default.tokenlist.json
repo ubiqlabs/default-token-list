@@ -1,6 +1,6 @@
 {
   "name": "Default List",
-  "timestamp": "2021-11-23T20:29:36.371Z",
+  "timestamp": "2021-11-26T22:59:40.532Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -54,9 +54,9 @@
     },
     {
       "name": "Polygon USDC",
-      "address": "0xA30f18BB70B67B1CA59ecfd3e816296ebD4F6bfC",
+      "address": "0xAb91CFc11Df92f8c8be52c87e856904EaDac84C1",
       "symbol": "pUSDC",
-      "decimals": 18,
+      "decimals": 6,
       "chainId": 8,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
