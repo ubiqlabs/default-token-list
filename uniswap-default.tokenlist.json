@@ -1,9 +1,9 @@
 {
   "name": "Default List",
-  "timestamp": "2021-11-26T22:59:40.532Z",
+  "timestamp": "2022-01-27T17:26:17.350Z",
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tags": {},
@@ -45,22 +45,6 @@
       "logoURI": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0x7845fCbE28ac19ab7ec1C1D9674E34fdCB4917Db/logo.png"
     },
     {
-      "name": "Polygon DAI",
-      "address": "0xa8b56D3DDaDEe0E9B9E0bB21b7Bd58c120A8e6cd",
-      "symbol": "pDAI",
-      "decimals": 18,
-      "chainId": 8,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
-    },
-    {
-      "name": "Polygon USDC",
-      "address": "0xAb91CFc11Df92f8c8be52c87e856904EaDac84C1",
-      "symbol": "pUSDC",
-      "decimals": 6,
-      "chainId": 8,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
-    },
-    {
       "name": "Snarg01",
       "address": "0x497E20586F86c35592FF8F65CdE94F296514C387",
       "symbol": "SNARG",
@@ -83,6 +67,14 @@
       "decimals": 18,
       "chainId": 8,
       "logoURI": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0x068adbc25efa195f13e70812904761100046059c/logo.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0xa8cF68b59a616c260dd88Fd1ea61fBB864f7E485",
+      "symbol": "wETH",
+      "decimals": 18,
+      "chainId": 8,
+      "logoURI": "https://raw.githubusercontent.com/ubiqlabs/assets/master/blockchains/ubiq/assets/0xa8cF68b59a616c260dd88Fd1ea61fBB864f7E485/logo.png"
     },
     {
       "name": "Wrapped UBQ",
