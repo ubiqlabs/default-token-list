@@ -40,30 +40,6 @@
     "logoURI": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0x0826180A4c981d5095Cb5c48BB2A098A44cf6f73/logo.png"
   },
   {
-    "name": "GeoCoin",
-    "address": "0x500684CE0D4f04aBeDff3e54fCF8acC5E6CFc4bD",
-    "symbol": "GEO",
-    "decimals": 8,
-    "chainId": 8,
-    "logoURI": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0x500684CE0D4f04aBeDff3e54fCF8acC5E6CFc4bD/logo.png"
-  },
-  {
-    "name": "Snarg01",
-    "address": "0x497E20586F86c35592FF8F65CdE94F296514C387",
-    "symbol": "SNARG",
-    "decimals": 0,
-    "chainId": 8,
-    "logoURI": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0x497E20586F86c35592FF8F65CdE94F296514C387/logo.png"
-  },
-  {
-    "name": "Sphere",
-    "address": "0x20e3dD746DdF519B23Ffbbb6Da7a5d33eA6349D6",
-    "symbol": "SPHR",
-    "decimals": 8,
-    "chainId": 8,
-    "logoURI": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0x20e3dD746DdF519B23Ffbbb6Da7a5d33eA6349D6/logo.png"
-  },
-  {
     "name": "Wrapped Expanse",
     "address": "0x068adbc25efa195f13e70812904761100046059c",
     "symbol": "uWEXP",

@@ -1,10 +1,10 @@
 {
   "name": "Default List",
-  "timestamp": "2022-01-27T17:26:17.330Z",
+  "timestamp": "2022-02-13T17:51:14.917Z",
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "keywords": [
@@ -21,14 +21,6 @@
       "logoURI": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0xcf3222b7FDa7a7563b9E1E6C966Bead04AC23c36/logo.png"
     },
     {
-      "name": "GeoCoin",
-      "address": "0x500684CE0D4f04aBeDff3e54fCF8acC5E6CFc4bD",
-      "symbol": "GEO",
-      "decimals": 8,
-      "chainId": 8,
-      "logoURI": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0x500684CE0D4f04aBeDff3e54fCF8acC5E6CFc4bD/logo.png"
-    },
-    {
       "name": "10grans",
       "address": "0x0826180A4c981d5095Cb5c48BB2A098A44cf6f73",
       "symbol": "GRANS",
@@ -43,22 +35,6 @@
       "decimals": 18,
       "chainId": 8,
       "logoURI": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0x7845fCbE28ac19ab7ec1C1D9674E34fdCB4917Db/logo.png"
-    },
-    {
-      "name": "Snarg01",
-      "address": "0x497E20586F86c35592FF8F65CdE94F296514C387",
-      "symbol": "SNARG",
-      "decimals": 0,
-      "chainId": 8,
-      "logoURI": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0x497E20586F86c35592FF8F65CdE94F296514C387/logo.png"
-    },
-    {
-      "name": "Sphere",
-      "address": "0x20e3dD746DdF519B23Ffbbb6Da7a5d33eA6349D6",
-      "symbol": "SPHR",
-      "decimals": 8,
-      "chainId": 8,
-      "logoURI": "https://raw.githubusercontent.com/octanolabs/assets/master/blockchains/ubiq/assets/0x20e3dD746DdF519B23Ffbbb6Da7a5d33eA6349D6/logo.png"
     },
     {
       "name": "Wrapped Expanse",
